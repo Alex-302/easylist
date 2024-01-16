@@ -57,7 +57,7 @@ Bulgarian list is an affiliated filter list written by Alex that specifically re
 -------
 ABPindo
 -------
-ABPindo is an affiliated filter list written by hermawan that specifically removes adverts on Indonesian language websites.
+ABPindo is an affiliated filter list written by heradhis that specifically removes adverts on Indonesian language websites.
 
 `View ABPindo <https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/subscriptions/abpindo.txt>`_ or `add it to your ad blocker <https://subscribe.adblockplus.org?location=https://raw.githubusercontent.com/heradhis/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPindo&requiresLocation=https://easylist-downloads.adblockplus.org/easylist.txt&requiresTitle=EasyList>`__	**|** `Report a problem on GitHub <https://github.com/ABPindo/indonesianadblockrules/issues>`__
 
@@ -124,13 +124,6 @@ ABPVN List is an affiliated filter list written by Hoàng Rio that specifically 
 
 `View ABPVN List <https://abpvn.com/filter/abpvn-IPl6HE.txt>`_ or `add it to your ad blocker <https://subscribe.adblockplus.org?location=https://abpvn.com/filter/abpvn-IPl6HE.txt&title=ABPVN%20List&requiresLocation=https://easylist-downloads.adblockplus.org/easylist.txt&requiresTitle=EasyList>`__ `Report a problem on GitHub <https://github.com/abpvn/abpvn/issues>`__
 
-----------
-ABPVN List (invalid descr.)
-----------
-ABPVN List is an affiliated filter list written by Hoàng Rio that specifically removes adverts on Tiếng Việt language websites.
-
-`View ABPVN List <https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt>`_ or `add it to your ad blocker <https://subscribe.adblockplus.org?location=https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/subscriptions/abpindo.txt&title=ABPVN%20List&requiresLocation=https://easylist-downloads.adblockplus.org/easylist.txt&requiresTitle=EasyList>`__
-
 ---------------
 EasyList Polish
 ---------------
@@ -157,7 +150,7 @@ ROList
 ------
 ROList is an affiliated filter list written by MenetZ and Zoso that specifically removes adverts on românesc language websites.
 
-`View ROList <https://www.zoso.ro/pages/rolist.txt>`_ or `add it to your ad blocker <https://subscribe.adblockplus.org?location=https://www.zoso.ro/pages/rolist.txt&title=ROList&requiresLocation=https://easylist-downloads.adblockplus.org/easylist.txt&requiresTitle=EasyList>`__	**|** `Report a problem on GitHub <https://zoso.ro/rolist/>`__
+`View ROList <https://www.zoso.ro/pages/rolist.txt>`_ or `add it to your ad blocker <https://subscribe.adblockplus.org?location=https://www.zoso.ro/pages/rolist.txt&title=ROList&requiresLocation=https://easylist-downloads.adblockplus.org/easylist.txt&requiresTitle=EasyList>`__	**|** `Report a problem <https://zoso.ro/rolist/>`__
 
 ----------------------------
 Adblock Warning Removal List
